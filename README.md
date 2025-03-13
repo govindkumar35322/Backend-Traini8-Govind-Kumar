@@ -26,7 +26,7 @@ This is an MVP for a registry system for Government funded Training Centers. The
 
 ### 1. Create Training Center
 
-- **URL**: `/api/training-centers`
+- **URL**: `/api/traning-centers`
 - **Method**: `POST`
 - **Content-Type**: `application/json`
 - **Request Body**:
